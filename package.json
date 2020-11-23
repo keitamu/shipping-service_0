@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "main": "app.js",
   "scripts": {
-    "test": "jest tests",
+    "test": "jest tests --env=node",
     "start": "node src/app.js"
   },
   "engines": {
